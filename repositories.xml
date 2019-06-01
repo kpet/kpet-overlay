@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+
+<repositories version="1.0">
+	<repo priority="50" quality="experimental" status="unofficial">
+		<name>kpet</name>
+		<description>A collection of ebuilds maintained by @kpet</description>
+		<homepage>https://github.com/kpet/kpet-overlay</homepage>
+		<owner>
+			<email>kpet@free.fr</email>
+		</owner>
+		<source type="git">https://github.com/kpet/kpet-overlay.git</source>
+	</repo>
+</repositories>
+
